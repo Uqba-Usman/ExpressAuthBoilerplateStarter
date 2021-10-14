@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "AppPrivateKey",
+  "db": "",
+  "clientUrl":"http://localhost:3000"
+}
+

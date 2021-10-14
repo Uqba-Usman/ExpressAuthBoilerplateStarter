@@ -1,0 +1,7 @@
+{
+  "jwtPrivateKey": "AppPrivateKey",
+  "db1": "mongodb://localhost/habbittracking",
+  "db":"",
+  "env": "development",
+  "clientUrl":"http://localhost:3000"
+}
